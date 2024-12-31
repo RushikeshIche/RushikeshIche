@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [Updating Soon](Updating Soon)
-
 - 💬 Ask me about **React Js, Next Js, Databases, Routing**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rushikesh-iche-aa395b289/**
