@@ -7,16 +7,16 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshiche&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshiche" /> </p>
-## 🙋‍♂️ About Me
+
+---
+### About Me
 
 🎓 Pre-Final-year student passionate about both **Data Structures & Algorithms** and **Development**  
 ⚡ Focused on building **AI-aware**, **business-minded**, and **network-strong** developers  
 🌱 Currently diving deeper into **blockchain & AI integration**  
 📫 Always open to connecting with like-minded tech folks!
 
----
-
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ### 🧠 Languages
 
